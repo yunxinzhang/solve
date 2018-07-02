@@ -1,0 +1,298 @@
+//x为路，其它成对字符为方块。
+10 10
+h x g x x x x x x x 
+x x p x x x x x x x
+x x x x x y x y x x
+x x x x x x x x x x
+l x x x x r b x x x
+d x x x x x x x x x
+x x x x x x x x x x
+x x r x x z d x g x
+x x l b x x p x h x
+x x x x x z x x x x
+#dashi2
+
+7 7
+x x x x x x r
+x x p h x x l
+x x x x x x x
+x x x x x r x
+x x h x y x x
+x x x g p x l
+x g x x x x y
+#cg b5 11'
+
+
+10 10
+g x x x x x x x x x
+x x h x x x x x x p
+x x p y x x x y x h
+x x x x x x x x g r
+b z x x x x x x x x
+x x x x x r x x x x
+c x x x x x x x d x
+n x x x x x x x x x
+x x x x x x x x x x
+n x x c b x x x z d
+#大师1
+
+7 7
+x x x x x x r
+x x p h x x l
+x x x x x x x
+x x x x x r x
+x x h x y x x
+x x x g p x l
+x g x x x x y
+#cg b5 11'
+
+7 7
+x x x x x h g
+h g x x x x x
+x y x r x x x
+x p x l x r x
+x x x x x x x
+y x x x x x x
+p x l z x x z
+#cg b4
+
+7 7
+x x g x x x x
+g x x x h x x
+x x l x y x x 
+x x x x x x x
+p l y x x r p
+x x x x x x x
+h z x x x z r
+#cg b-3
+
+7 7
+x x g x x x x
+g x x x h x x
+x x l x y x x
+x x x x x x x
+p l y x x r p
+x x x x x x x
+h z x x x z r
+
+7 7
+x x x x x x g
+x p x x x x x
+x x x x x g x
+x r x l y p x
+x l x x x z h
+x r y x x x x
+z x x x x h x
+#cg b-2
+8 8
+x x x x x x x x
+h x x x x q z x
+x x y x x y x h
+x x x x x p x x
+q x x x x x x x
+x x x x x r x x
+x l x r x p x x
+x x x x x l x z
+
+8 8
+x x x x x x x x
+h x x x x q z x
+x x y x x y x h
+x x x x x p x x
+q x x x x x x x
+x x x x x r x x
+x l x r x p x x
+x x x x x l x z
+
+8 8
+x x x x x x x h
+q l y x x p x x
+r x x x x x x x
+x x x x x x x x
+z l x x x x x h
+x x r x x x x p
+x x x x x x q x
+x z y x x x x x
+
+7 7
+x x x x x x g
+x p x x x x x
+x x x x x g x
+x r x b y p x
+x b x x x z h
+x r y x x x x
+z x x x x h x
+
+7 7
+x x l x x x x
+x x x x x p y
+x x p x x r x
+l x x x x x x
+x x x h r x x
+y x x x x g x
+g x h x x x x
+#cg b-1
+
+7 7
+h x x x g x y
+x x y x x x l
+x x x x x r x
+h x x x x x x
+x x x x l x x
+g x x x x p x
+r x p x x x x
+
+10 10
+g x x x x x x x x x
+x x h x x x x x x p
+x x p y x x x y x h
+x x x x x x x x g r
+b z x x x x x x x x
+x x x x x r x x x x
+c x x x x x x x d x
+n x x x x x x x x x
+x x x x x x x x x x
+n x x c b x x x z d
+
+
+7 7
+g p x x x x h
+x x x x x x l
+x x x x r x x
+x x x y x x x
+x x x r x x x
+x x h x p x x
+g x x x y x l
+
+
+7 7
+h x g x x x p
+x x y x x x x
+x x x x x r x
+h x x x x x x
+x x y x x x x
+g x x x x x l
+p x l x x x r
+
+
+
+
+
+
+
+
+
+7 7
+h x x x g x y
+x x y x x x l
+x x x x x r x
+h x x x x x x
+x x x x l x x
+g x x x x p x
+r x p x x x x
+
+
+5 5
+g x g x r
+x x x x h
+x h x x x
+x x x r y
+y x x x x
+#6
+
+7 7
+h x x x g x y
+x x y x x x l
+x x x x x r x
+h x x x x x x
+x x x x l x x
+g x x x x p x
+r x p x x x x
+
+
+
+
+7 7
+h x x x g x y
+x x y x x x l
+x x x x x r x
+h x x x x x x
+x x x x l x x
+g x x x x p x
+r x p x x x x
+
+7 7 
+x x x x x h l
+x r x x x y x
+h x x x x x x
+g x x l x x x
+x x y r p g x
+x x x x x x x
+x x x x x p x
+
+7 7
+h l x g x x x
+x r x x x y x
+x x x x x x x
+x x l x x x h
+x x r y g x p
+x x x x x x x
+p x x x x x x
+
+7 7
+x h x x x x x
+x g x x x x x
+x x x l r x x
+h x y p x x x
+x x x x x x x
+g x x r x x x 
+p x l x x x y
+
+5 5
+x x x r x
+x y x x x
+h x y h x
+x x x x x
+r g x x g
+
+
+5 5
+x x x h x
+x g x y x
+r x x x x
+g x x y x
+r x x h x
+
+
+5 5
+h x x r g
+r x x x x
+x x x x y
+x h x g x
+x x x y x
+
+5 5
+y h x x r
+x x y x x
+h x x x x
+x x x x x
+r g x x g
+
+
+5 5
+g x g x r
+x x x x h
+x h x x x
+x x x r y
+y x x x x
+#6
+
+
+5 5
+x x x r x
+x r x q x
+x x x x x
+x g x x x
+x x x q g
+#5
+
